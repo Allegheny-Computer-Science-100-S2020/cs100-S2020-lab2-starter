@@ -2,9 +2,6 @@
 
 // TODO: Add the required import statement
 
-// NOTE: If you do not correctly add the above statements
-// the program will not compile correctly when you type "gradle build"
-
 /** This class has a method that computes the distance to the moon in yards.
  * The first line displays the name of the programmer and the date. Then, the
  * program's main method stores some values in variables and performs a
