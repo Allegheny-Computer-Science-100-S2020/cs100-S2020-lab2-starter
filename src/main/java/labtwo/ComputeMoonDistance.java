@@ -1,6 +1,7 @@
 // TODO: Add the correct package declaration
+// NOTE: You can follow the example from a previous assignment
 
-// TODO: Add the required import statement
+// TODO: Add the required import statement for the java.util.Date class
 
 /** This class has a method that computes the distance to the moon in yards.
  * The first line displays the name of the programmer and the date. Then, the
